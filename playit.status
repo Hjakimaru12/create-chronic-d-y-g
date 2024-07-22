@@ -1,1276 +1,1183 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721610723804 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: FailedToConnect
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721611811239 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610726858 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611814285 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610729907 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611817382 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610732952 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611820615 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610736178 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611823673 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610739250 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611826760 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610742347 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611829798 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610745606 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611832871 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610748678 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611835941 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610751761 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611839003 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610754826 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611842073 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610757924 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611845122 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610761030 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611848161 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610764112 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611851205 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610767177 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611854245 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610770241 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611857293 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610773288 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611860340 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610776321 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611863404 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610779372 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611866557 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610782452 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611869622 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610785507 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611872687 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610788564 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611875735 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610791609 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611878823 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610794668 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611881878 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610797781 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611884910 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610800833 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611888143 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610803877 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611891201 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610806921 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611894255 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610809963 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611897303 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610813015 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611900357 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610816074 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611903399 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610819188 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611906468 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610822245 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611909534 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610825327 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611912585 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610828358 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611915635 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610831437 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611918685 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610834528 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611921937 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610837589 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611924990 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610840713 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611928109 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610843778 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611931165 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610846921 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611934257 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610849960 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611937332 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610853124 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611940394 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610856191 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611943455 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610859237 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611946488 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610862352 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611949676 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610865402 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611952724 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610868639 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611955786 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610871735 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611959592 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610874781 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611962652 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610877844 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611965719 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610880890 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611968773 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610883922 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611971826 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610886968 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611974871 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610890060 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611977929 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610893095 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611980985 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610896152 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611984041 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610899198 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611987127 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610902366 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611990181 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610905475 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611993245 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610908540 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611996292 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610911595 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721611999343 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610914701 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612002383 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610917745 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612005437 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610920788 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612008496 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610923880 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612011534 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610926989 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612014580 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610930047 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612017619 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610933105 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612020671 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610936190 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612023738 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610939263 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612026793 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610942330 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612029906 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610945409 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612032979 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610948448 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612036041 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610951498 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612039095 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610954554 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612042157 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610957665 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612045263 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610960771 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612048299 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610963877 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612051364 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610966997 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612054493 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610970058 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612057552 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610973097 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612060626 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610976172 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612063730 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610979221 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612066788 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610982277 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612069842 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610985329 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612072936 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610988394 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612076050 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610991488 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612079152 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610994548 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612082193 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721610997586 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612085227 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611000659 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612088280 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611003733 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612091321 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611006783 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612094392 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611009838 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612097466 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611012904 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612100527 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611015958 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612103883 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611018995 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612106996 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611022229 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612110047 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611025263 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612113126 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611028364 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612116167 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611031417 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612119301 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611034464 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612122366 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611037510 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612125416 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611040550 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612128474 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611043585 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612131543 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611046619 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612134578 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611049657 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612137616 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611052709 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612140712 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611055754 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612143933 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611058808 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612147063 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611061855 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612150104 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611064889 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612153153 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611067924 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612156255 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611070998 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612159322 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611074059 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612162379 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611077123 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612165438 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611080169 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612168507 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611083235 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612171554 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611086296 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612174636 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611089357 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612177679 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611092443 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612180723 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611095518 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612183777 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611098585 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612186869 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611101646 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612189901 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611104703 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612192968 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611107782 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612196014 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611110824 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612199059 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611113912 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612202095 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611116973 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612205176 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611120055 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612208260 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611123201 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612211311 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611126289 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612214426 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611129343 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612217479 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611132400 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612220528 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611135492 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612223574 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611138958 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612226620 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611142023 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612229670 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611145153 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612232874 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611148295 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612235997 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611151357 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612239044 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611154410 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612242095 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611157512 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612245191 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611160567 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612248282 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611163606 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612251348 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611166790 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612254417 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611169919 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612257488 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611173000 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612260558 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611176073 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612263647 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611179123 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612266711 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611182160 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612269749 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611185196 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612272823 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611188254 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612275877 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611191302 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612278929 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611194356 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612282048 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611197479 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612285126 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611200521 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612288164 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611203598 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612291224 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611206684 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612294255 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611209734 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612297362 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611212800 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612300431 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611215873 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612303479 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611218920 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612306777 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611221981 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612309820 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611225019 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612312873 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611228059 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612315928 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611231140 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612318968 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611234188 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612322057 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611237382 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612325106 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611240423 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612328165 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611243462 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612331259 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611246493 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612334337 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611249529 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612337376 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611252576 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612340441 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611255645 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612343581 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611258697 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612346708 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611262018 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612349762 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611265117 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612352876 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611268199 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612355925 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611271241 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612358992 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611274281 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612362060 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611277332 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612365115 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611280381 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612368164 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611283482 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612371251 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611286551 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612374314 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611289614 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612377374 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611292713 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612380439 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611295781 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612383498 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611298819 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612386539 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611301852 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612389573 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611304912 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612392630 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611308174 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612395735 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611311253 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612398789 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611314320 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612401979 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611317393 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612405033 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611320540 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612408080 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611323611 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612411148 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611326657 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611329721 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611333171 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611336261 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611339304 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611342349 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611345406 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611348445 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611351482 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611354564 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611357612 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611360663 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611363760 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611366822 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611369945 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611372998 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-area-toronto.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721611376045 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721612414201 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
